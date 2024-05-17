@@ -1,0 +1,15 @@
+{
+    "name": "Test NFT Collection",
+    "description": "A collection of test NFTS",
+    "image": "collection.png",
+    "symbol": "TNFT",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

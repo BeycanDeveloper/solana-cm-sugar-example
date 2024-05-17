@@ -1,0 +1,16 @@
+{
+    "name": "TNFT 5",
+    "description": "Test NFT!",
+    "image": "5.png",
+    "symbol": "TNFT",
+    "attributes": [
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

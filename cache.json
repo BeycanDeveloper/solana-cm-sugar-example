@@ -1,0 +1,105 @@
+{
+  "program": {
+    "candyMachine": "DHxQx9xRzgygNmB9VVWjebJ7Aq4aJph2zaGjX3ePuUUa",
+    "candyMachineCreator": "5kWHytHaPsVMzDg5qPZqEc7tVCxU1EfpfFrxx9SmgLtY",
+    "collectionMint": "9B8bxQWovwm5na85xtDPuAyUVingcVdqWk3d9yQV2zsA"
+  },
+  "items": {
+    "-1": {
+      "name": "Test NFT Collection",
+      "image_hash": "74868bffb9abe13d23a70843000bedefc88f46d9a964fcdfe66ebca7b16608eb",
+      "image_link": "https://arweave.net/lx4mBUIpc4MCopyWE-Zn2pkFtaGAwqM9qMURI2bXXTg?ext=png",
+      "metadata_hash": "6b17160b964a4b2ac01450be55cd41f118c86e09c384bbc7f78693e67f94a64d",
+      "metadata_link": "https://arweave.net/EnYVQTVd3sGBdOuD8lBempSJunMTOvlJyNnULMJK_SY",
+      "onChain": true
+    },
+    "0": {
+      "name": "TNFT 0",
+      "image_hash": "a0b10e3f4a28dfdf8658d69422017c62399335f3864dc1d05e0aa3f98c391afd",
+      "image_link": "https://arweave.net/dRC9HMGjY7SrZzYwQxNQgpjv74wkl99d2KjQu1AeBqw?ext=png",
+      "metadata_hash": "6d45189f88ac823f14599c933fb08bced3d1235fcb87dc1b04393b2c4148d3f3",
+      "metadata_link": "https://arweave.net/9jZOGdB63gCiqSEFps2AVlA0pKTuB3fQKm1hjKKhr-A",
+      "onChain": true
+    },
+    "1": {
+      "name": "TNFT 1",
+      "image_hash": "bd9d1a3ca05344b4106486e58f291e8ba5034608044ff0a5f05671802c6750ca",
+      "image_link": "https://arweave.net/J1f4k79scs9F1FALEJKGGotodtSHpQWZwydKdr6t78U?ext=png",
+      "metadata_hash": "1c9f14487b3e210c08b9bac97f54b29243cf85e972bde1ead682125d188171be",
+      "metadata_link": "https://arweave.net/8SvLYJ8CgpxzihKD2r-DKRmjPlyxa_WGeuA8ARI0ems",
+      "onChain": true
+    },
+    "2": {
+      "name": "TNFT 2",
+      "image_hash": "fc600df9cffdbed77b88c6f4efdb491310f0f84d1b2d58387958c3c41e950476",
+      "image_link": "https://arweave.net/Kb1eXSpYdFKKxdfRcZ1B-KB4CCXm3F22DsvuCMnI1pg?ext=png",
+      "metadata_hash": "b099f84f388f3c8bcabccaff36a366669e1993e9b46f00f0b4f58bb472e0386f",
+      "metadata_link": "https://arweave.net/My9Ig78yaLi8xq11n2Mo8j7tSybQfqlEkRzOfDxKod8",
+      "onChain": true
+    },
+    "3": {
+      "name": "TNFT 3",
+      "image_hash": "1f24eabd0183be82b1a16feb7f0c835b3260cfe92178ac6d789a9626cdeb38b9",
+      "image_link": "https://arweave.net/62ksx_NjjOKVmJup4GGJHE61YKoF5QdLiQpetRMVm-I?ext=png",
+      "metadata_hash": "f9411ebccbd2eb2284d7bf078b4b398fb5a5b9dfabc3347c1b435db8f2223b4b",
+      "metadata_link": "https://arweave.net/uKNQ0CYjX074VFZGJScXIqCrmKSUbgblvrrS0Wj_oWQ",
+      "onChain": true
+    },
+    "4": {
+      "name": "TNFT 4",
+      "image_hash": "ccaeb2e5445cd8bca14e5f724ccb19f54b92ee58db1ba4774f516fd2f05378ab",
+      "image_link": "https://arweave.net/PbFhjoR9Y-JkVoJhVv7B8Ks5TMKA71X-bfRsPywkQBc?ext=png",
+      "metadata_hash": "56fa7a95abfdfa23020b0a9f9388044510a3a1c6b67dc068eb969394402ac050",
+      "metadata_link": "https://arweave.net/8vOFAkcJ5fSQKxoCUaqxY0ZScwts4Qwa0bPymuDHP0Q",
+      "onChain": true
+    },
+    "5": {
+      "name": "TNFT 5",
+      "image_hash": "ca2d5f17dcdbd41bdf1eab39ab129864d4ca1da0491b577556a644bcba04312e",
+      "image_link": "https://arweave.net/wTA5ksC0_mRk-1qlIQSCfbMpIWTATKs5qsW35KHhA3o?ext=png",
+      "metadata_hash": "031f7139f086dbec0803a6840c412d6e91e55fbeeecd0100f89fa4a92526e399",
+      "metadata_link": "https://arweave.net/kc3s9YnB42ei4nl9gPgHFJUsr_qllJZnPCr6GRI4BoM",
+      "onChain": true
+    },
+    "6": {
+      "name": "TNFT 6",
+      "image_hash": "612b2b31be523a86bd9fb10c0dc912946dad5cdfa7a8e232cd48a3e17a8089be",
+      "image_link": "https://arweave.net/KRhym0GdwTb0sCoBIScZe-Qw4t1DPw5zVnur0n7rrOg?ext=png",
+      "metadata_hash": "0e72af3a9ee063bd8f644729cbaa65f902e9b686bc2fa922fbfd3c2d202185ba",
+      "metadata_link": "https://arweave.net/3VliV74c4KFI6w19EpQqLSMToY7amwJ1p_iLxmEbr7Y",
+      "onChain": true
+    },
+    "7": {
+      "name": "TNFT 7",
+      "image_hash": "c7bc5b5238e7c4735de1ad306af21e9c3bf910600e7542fe97c61d800418955d",
+      "image_link": "https://arweave.net/AlC6e0lnxdKJTZ5Gjl0ppXErX9nLQmZiWlmOK6Zdcxc?ext=png",
+      "metadata_hash": "c5fa0397e6926aedb096af6c673b213063b6919500fa3990dcd3b49fb9669127",
+      "metadata_link": "https://arweave.net/ACeA3F3l93DVDLF87bYXbw4b64lCqQeWFzhtit292tk",
+      "onChain": true
+    },
+    "8": {
+      "name": "TNFT 8",
+      "image_hash": "65f9b1bb8e9ba9ae4599f4d56e2731939c3e55a8f3d6959ae60e80400bd06680",
+      "image_link": "https://arweave.net/ZrvUSNtnAhHp8Sg07FrVwHvuxmu4xLXGM1XxxHdlkjs?ext=png",
+      "metadata_hash": "4b2c1f954469d7c2bdf0932dc77766b41df92fade1a4683e6297618a62c4311f",
+      "metadata_link": "https://arweave.net/OBeS-y7_nRUTy0JXmj1aQJl9InZEZeKMZulo5SQHRU0",
+      "onChain": true
+    },
+    "9": {
+      "name": "TNFT 9",
+      "image_hash": "596a084e729e8caa6f4456e7dc12745e30eabf2eafb5e94fb77cea0bef9c2d49",
+      "image_link": "https://arweave.net/uMC-qnbBRWQ9fISiUv7YDq-jvys4CujOQgzVB_wvrTQ?ext=png",
+      "metadata_hash": "6d44f46928ed82ea196f23e5bc55ed9252de3ccbdd2aff6a9d0c6d935fd8b47f",
+      "metadata_link": "https://arweave.net/HCHblP44Th63HHRFhgDFE1CBHhY4EPEcsJu38rJGMQs",
+      "onChain": true
+    },
+    "10": {
+      "name": "TNFT 10",
+      "image_hash": "232bd691d4b7eb0b1a182a3a10f06f427b0b35f3c77590592c1c36d0231dc841",
+      "image_link": "https://arweave.net/qcOLlJS_6sWysXreJJFKdDVhb1kav0WPKhrfifqTEYo?ext=png",
+      "metadata_hash": "42aaea4b364d2bd3292e56d701c8b5575464838cf5af8cb5f113660e02a8f195",
+      "metadata_link": "https://arweave.net/uFIdpArOEBaZm8aAfFxqXAW9C9egpPOIWYaEbRzuilg",
+      "onChain": true
+    }
+  }
+}
